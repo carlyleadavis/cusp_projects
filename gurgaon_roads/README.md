@@ -1,5 +1,6 @@
 # Urban Systems
 **Counting Public Roadspace in Gurgaon, India**
+
 Carlyle Davis
 
 
@@ -14,7 +15,7 @@ After obtaining road maps of the city from Google Maps, I converted the images i
 black/white images, and counted the number of black pixels (roads / highways) vs.
 the total pixels in each image to obtain a rough percentage of public space devoted to roads.
 
-**I calculate that ~8% of the land in Gurgaon India is devoted to roads and highways**
+**I calculate that ~8% of the land in Gurgaon India is devoted to roads and highways.**
 
 One way this project could be improved is to include parks, plazas, and other large
 gathering space for the city, in order to have a rough approximate for total public space.
