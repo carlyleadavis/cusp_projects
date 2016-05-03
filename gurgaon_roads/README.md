@@ -17,6 +17,18 @@ the total pixels in each image to obtain a rough percentage of public space devo
 
 **I calculate that ~8% of the land in Gurgaon India is devoted to roads and highways.**
 
+As a comparison, I also calculated the amount of public space in the English planned city
+of New Delhi (of which Gurgaon is a 'satellite city').  With planned public space and
+a very planned layout, New Delhi's public space allocation is more in line with
+other cities of similiar size.  For comparison's sake, I simply took a a small area from
+the clearly planned city-center.
+
+**I calculate that ~14% of the land in New Delhi, India is devoted to roads and highways.**
+
+This is an interesting snapshot of the risk that cityplanners take when they do not
+set aside public space from the start, and allow free markets to determine how people
+share space and move through a city.
+
 One way this project could be improved is to include parks, plazas, and other large
 gathering space for the city, in order to have a rough approximate for total public space.
 
